@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+button{
+  margin: 10px;
+  max-width: 200px;
+  min-width: 200px;
+}
+
+/* .form-select{
+  display: inline-block;
+} */
